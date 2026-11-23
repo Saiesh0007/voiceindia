@@ -1,19 +1,29 @@
-Who benefits:
-First, the shopkeeper: the kirana owner, vegetable vendor or chai stall owner who runs on udhaar and keeps it in a notebook or in their head. The biggest gain goes to those who find typing hard: older owners, people with limited schooling, and those more comfortable in Marathi, Tamil or Bengali than in English. Second, their customers: daily-wage workers and families who rely on month-end credit and today have no clear record of what they owe. Third, the family members who help at the counter. With one shared, spoken ledger, entries no longer depend on one person's memory.
+Who benefits, and roughly how many:
+The direct users are small shopkeepers who sell on udhaar: kirana owners, vegetable and fruit vendors, chai stalls, dairies and small hardware counters. India is commonly estimated to have around 1.2 crore kirana stores, plus tens of lakhs of street vendors, and most of them extend informal credit. The biggest gain is for owners who find typing hard: older shopkeepers, people with limited schooling, and those more at home in Marathi, Tamil or Bengali than in English. Each shop has dozens of regular credit customers, so the people indirectly affected, mostly daily-wage and low-income families who buy on month-end credit, number in the crores. A realistic first goal is 10,000 shops in two or three states within a year, reaching around 3–5 lakh customers.
 
-What changes for them:
-Fewer missed entries. Recording credit takes a few seconds of speech instead of stopping work, so entries made during a rush stop getting lost, and that money stops leaking away.
-Fewer disputes. Every entry is read back, confirmed and saved with its transcript and date. "Maine toh de diya tha" can be checked in seconds instead of argued over, which protects both the money and the relationship.
-Faster, less awkward collection. One sentence, "Sabko reminder bhej do", sends each customer a polite message in their own language with a UPI link. The shopkeeper no longer has to ask a neighbour for money face-to-face, and customers can pay instantly instead of waiting for their next visit.
-Clarity and confidence. "Aaj kitna udhaar diya?" gives a real number. The owner can see who owes what and for how long, and decide whom to keep giving credit to. Over time, a clean digital credit history could help the shopkeeper show their business's health when applying for a small loan.
-Customers benefit too: a clear, polite record of what they owe instead of a surprise at month-end.
+What changes compared with today:
+Today, credit is written in a notebook during a rush or simply remembered. Entries get missed, disputes are settled by whoever argues harder, and collecting money means an awkward face-to-face ask.
+With Bolo Khata:
+- Recording takes one spoken sentence instead of stopping work, so entries made during a rush stop getting lost.
+- Every entry is read back, confirmed and saved with its transcript and date, so "Maine toh de diya tha" can be checked in seconds.
+- "Sabko reminder bhej do" sends each customer a polite message in their language with a UPI link, so dues come back faster and nobody has to ask.
+- "Aaj kitna udhaar diya?" gives a real number, so the owner knows who owes what and for how long. Over time, a clean credit history could support a small business loan.
+- Customers get a clear record of what they owe instead of a surprise at month-end.
 
-How we'd know:
-We would pilot with 20–30 shops across two or three cities and languages, and compare four weeks before and after.
-- Adoption: the share of shops still recording entries by voice after 30 days, and entries per shop per day compared with their old notebook.
-- Accuracy: how often the read-back is accepted on the first try, how often entries are corrected, and how often the keypad fallback is needed, broken down by language and noise level.
-- Money recovered: total dues collected, average days to repayment, and the share of reminders that lead to a UPI payment.
-- Disputes: shopkeepers' own count of payment arguments per month, before and after.
-- Time saved: seconds per entry by voice versus writing or typing.
-- Voice of the user: short spoken interviews asking whether they trust the khata, and whether they would be upset if it disappeared.
-If most shops keep using it after a month, collection speeds up, and disputes fall, Bolo Khata is working.
+How you'd know it worked:
+Pilot with 20–30 shops across two or three cities and languages, and compare four weeks before and after.
+- Adoption: shops still recording by voice after 30 days (target: over 60%).
+- Accuracy: how often the read-back is accepted on the first try (target: over 85%), split by language and noise level.
+- Collection: average days to repayment, and the share of reminders that lead to a UPI payment.
+- Disputes: shopkeepers' own monthly count of payment arguments, before and after.
+- Trust: short spoken interviews asking whether they'd be upset if the khata disappeared.
+If most shops keep using it, money comes back faster, and arguments fall, it's working.
+
+The main risk:
+Misheard entries break trust. In a noisy shop, "do sau chalis" heard as "do hazaar chalis", or one Ramesh confused with another, produces a wrong balance. One wrong balance shown to a customer, and the shopkeeper goes back to the notebook for good. To reduce this:
+- Every entry is read back and needs a "haan" before it is saved.
+- Unusually large amounts get a second confirmation.
+- Similar names trigger a quick choice between them.
+- The transcript is kept so mistakes can be traced.
+- Any entry can be fixed with one tap.
+The pilot will measure accuracy by language before any wider rollout. A secondary risk is privacy: credit data is sensitive, so it stays on the shopkeeper's phone by default.
