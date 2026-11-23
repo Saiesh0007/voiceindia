@@ -8,6 +8,7 @@ With Bolo Khata:
 - Every entry is read back, confirmed and saved with its transcript and date, so "Maine toh de diya tha" can be checked in seconds.
 - "Sabko reminder bhej do" sends each customer a polite message in their language with a UPI link, so dues come back faster and nobody has to ask.
 - "Aaj kitna udhaar diya?" gives a real number, so the owner knows who owes what and for how long.
+
 How you'd know it worked:
 Pilot with 20–30 shops across two or three cities and languages, and compare four weeks before and after.
 - Adoption: shops still recording by voice after 30 days (target: over 60%).
