@@ -1,0 +1,14 @@
+{
+  "name": "Bolo Khata · बोलो खाता",
+  "short_name": "Bolo Khata",
+  "description": "Voice-first credit ledger for small shops",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F7F5F0",
+  "theme_color": "#F7F5F0",
+  "lang": "hi",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

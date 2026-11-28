@@ -1,0 +1,8 @@
+# docker compose up  ->  open http://localhost:8080 in Chrome or Edge
+services:
+  bolo-khata:
+    build: .
+    image: bolo-khata:latest
+    ports:
+      - "8080:80"
+    restart: unless-stopped
